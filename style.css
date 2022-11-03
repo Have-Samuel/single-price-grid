@@ -55,13 +55,8 @@ body {
   margin: 1rem 1.5rem 2rem 1.5rem;
 }
 
-.choice-1 {
-  height: 240px;
-  width: 362px;
+.content_choices {
   background-color: rgba(42, 179, 177, 1);
-  /* position: absolute;
-  left: 5.09%;
-  top: 52%; */
 }
 
 .choice-1 h2 {
@@ -95,14 +90,13 @@ body {
 }
 
 .amount p {
-  width: 75px;
   opacity: 50%;
   color: rgba(255, 255, 255, 1);
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  letter-spacing: -0.2px;
+  letter-spacing: 0.2px;
 }
 
 .full-access {
@@ -110,22 +104,54 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  letter-spacing: -0.2px;
+  letter-spacing: 0.2px;
   color: rgba(255, 255, 255, 1);
-  padding: 0 1.6rem 1.625rem 1.5rem;
+  padding: 0 1.6rem 2.625rem 1.5rem;
 }
 
 .choice-1 a {
   border-radius: 5px;
   background: rgba(192, 223, 51, 1);
   box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.0973);
-  padding: 0.9rem 7.3rem 0.9rem 8.4rem;
+  padding: 1.2rem 8.5rem 1.2rem 7rem;
   color: rgba(255, 255, 255, 1);
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 19px;
-  letter-spacing: -0.2px;
+  letter-spacing: 0.2px;
   text-decoration: none;
+  width: 330px;
+  text-align: center;
   margin: 0 1.5rem 0 1.5rem;
+}
+
+.choice-2 {
+  width: 311px;
+  height: 227px;
+  /* opacity: 15.19%; */
+  margin-top: 3rem;
+}
+
+.choice-2 h3 {
+  padding: 1.5rem 13rem 1.5rem 1.6rem;
+  font-family: 'Karla', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.3px;
+  text-align: left;
+  margin: 0 auto;
+  color: rgba(255, 255, 255, 1);
+}
+
+.choice-2 p {
+  font-family: 'Karla', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  text-align: left;
+  padding: 0 4.4rem 1.5rem 1.5rem;
+  color: rgba(255, 255, 255, 1);
 }
