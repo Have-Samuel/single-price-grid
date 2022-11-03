@@ -127,13 +127,17 @@ body {
 }
 
 .choice-2 {
-  width: 311px;
+  width: 210px;
   height: 227px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 0 auto; */
+  /* margin-top: 3rem; */
   /* opacity: 15.19%; */
-  margin-top: 3rem;
 }
 
-.choice-2 h3 {
+/* .choice-2 h3 {
   padding: 1.5rem 13rem 1.5rem 1.6rem;
   font-family: 'Karla', sans-serif;
   font-size: 18px;
@@ -154,4 +158,4 @@ body {
   text-align: left;
   padding: 0 4.4rem 1.5rem 1.5rem;
   color: rgba(255, 255, 255, 1);
-}
+} */
