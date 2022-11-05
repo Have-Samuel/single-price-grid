@@ -172,7 +172,7 @@ body {
   }
 
   .content_units {
-    height: 220px;
+    height: 290px;
   }
 
   .content_units h1 {
@@ -181,7 +181,7 @@ body {
     font-weight: 700;
     line-height: 28.06px;
     letter-spacing: -0.3px;
-    padding: 2.5rem 5rem 1.5rem 2.5rem;
+    padding: 2.5rem 4rem 1.5rem 2.5rem;
   }
 
   .content_units .period {
