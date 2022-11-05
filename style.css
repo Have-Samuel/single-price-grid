@@ -145,8 +145,6 @@ body {
 }
 
 .choice-2 p {
-  /* width: 238px; */
-  /* height: 140px; */
   font-family: 'Karla', sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -154,6 +152,5 @@ body {
   letter-spacing: 0.2px;
   text-align: left;
   color: #fff;
-  /* margin-left: 1.5rem; */
   margin: 0 3.1rem 0 1.5rem;
 }
