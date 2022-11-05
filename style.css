@@ -55,6 +55,7 @@ body {
 }
 
 .content_choices {
+  height: 475px;
   background-color: rgba(42, 179, 177, 1);
 }
 
@@ -126,15 +127,13 @@ body {
 }
 
 .choice-2 {
-  /* width: 210px; */
-  height: 210px;
+  height: 240px;
   margin-top: 3rem;
-  opacity: 70%;
-  mix-blend-mode: normal;
+  background-color: #a0e9e62a;
 }
 
 .choice-2 h3 {
-  padding: 0 7rem 1.5rem 1.6rem;
+  padding: 1rem 7rem 1.5rem 1.6rem;
   font-family: 'Karla', sans-serif;
   font-size: 18px;
   font-weight: 700;
