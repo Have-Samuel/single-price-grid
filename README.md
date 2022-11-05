@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - [Github](https://github.com/Have-Samuel/single-price-grid)
-- [Live Link]()
+- [Live Link](https://hilarious-single-price-grid.netlify.app/)
 
 ## My process
 
