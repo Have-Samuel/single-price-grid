@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Github](https://github.com/Have-Samuel/social-proof-section)
-- [Live Link](https://clever-social-proof.netlify.app/)
+- [Github](https://github.com/Have-Samuel/single-price-grid)
+- [Live Link]()
 
 ## My process
 
@@ -52,7 +52,7 @@ Users should be able to:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Have-Samuel/social-proof-section/issues).
+Feel free to check the [issues page](https://github.com/Have-Samuel/single-price-grid/issues).
 
 ## Show your support
 

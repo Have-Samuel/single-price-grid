@@ -229,6 +229,12 @@ body {
     margin: 0 1.5rem 0 2.5rem;
   }
 
+  .choice-1 a:hover,
+  .choice-1 a:active {
+    color: #c0df33;
+    background-color: #fff;
+  }
+
   .choice-2 {
     height: 299px;
     width: 320px;
